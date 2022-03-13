@@ -1,2 +1,2 @@
 # mandelbrot
-Mandelbrot fractal drawer
+Mandelbrot fractal painter
